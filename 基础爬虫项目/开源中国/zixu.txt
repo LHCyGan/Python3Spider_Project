@@ -1,0 +1,80 @@
+风铃虫 1.2.0 发布了，新增脚本提取功能
+ViewUI 4.2.0（原 iView）发布，企业级 UI 组件库
+PyPy 7.3.1 发布，Python 解释器
+MariaDB 5.5 R.I.P.
+Linux Kernel 5.7 RC1 发布
+Shotcut 20.04.12 发布，视频编辑软件
+Material UI 4.9.10 发布，Material Design React 组件
+InfluxDB 2.0.0 Beta 8 发布，开源时序数据库
+nuster v5.0.1.21 发布，高性能缓存服务器  
+sqltoy-orm-4.11.1 发版，最雅 sql、最科幻缓存翻译、最优分页，你值得拥有！
+DataQL 4.1.3 发布，支持 SQL 执行，从此告别 Mapper、BO、VO、DO、DAO
+百度智能小程序基础库 3.170.10 版本，新增播放视频、无声视频等能力
+gout v0.0.11 发布，golang 实现的 http 客户端
+OPIPING v1.0.1发布，Api 管理及自动化测试工具
+类似 Qt 的“跨平台 GUI 框架 GOSP”时隔一年有重大更新
+Java 代码生成器光 2.0.0 Insight(内省) 发布尝鲜版 3，代码变变变
+spider-flow 0.5.0 发布，Java 开源爬虫平台
+FASTOS 2.0.4 版本发布
+MyExcel 3.7.0 发布，屏蔽多线程处理细节
+Apache Tomcat 8.5.54 和 10.0.0-M4 发布
+跨平台 GUI 引擎 AWTK 1.4 发布
+GnuCash 3.10 发布，跨平台财务管理软件
+Cmake 3.16.6 发布，开源构建系统
+Memcached 1.6.4 发布，bug 修复版本
+GoLand 2020.1 稳定版发布
+TiDB 4.0.0-rc 发布，分布式 NewSQL 数据库
+xrkmonitor 字符云监控系统 v2.1 发布
+Archery v1.7.9 发布，支持数据归档
+Screen To Gif 2.23.1 发布，动画录制软件
+Rocket.Chat 3.1.0 发布，Slack 开源替代品
+Netbox 2.7.12 发布，IP 地址与数据中心管理工具
+FreeRDP 2.0.0 发布，从 Linux 远程连接到 Windows
+SeaweedFS 1.73 发布，分布式文件系统
+ReactOS 0.4.13 发布，Windows 系统的开源替代方案
+Ant Design 4.1.2 发布，企业级 UI 设计语言
+sorms 1.0.10 发布，易用性更新和 bug 修复
+wechat-app-mall 8.1.0 发布，微信小程序商城
+UKUI 3.0 揭秘 - 控制面板，随心所欲的沟通
+Spring boot stater 开发利器 mica-auto 1.2.1 发布
+JetLinks 物联网基础平台 1.0 RELEASE 发布
+eval5 1.4.4 发布，JavaScript 解释器
+云办公系统 skyeye v3.1.2 发布
+jQuery 3.5.0 发布
+Pale Moon 28.9.1 发布，苍月浏览器
+CMake 3.17.1 发布，开源构建系统
+Day.js 1.8.24 发布，轻量级时间和日期 JavaScript 库
+Wine 5.6 发布
+Laravel 7.5 发布
+Syncthing 1.4.2 发布，连续文件同步工具
+sqltoy-orm-4.10.9 版本发布
+YiiCms 多语言版发布
+V-IM 聊天软件 0.6.0 发布，调整项目脚手架，更容易升级打包
+go-fastdfs v1.3.8 发布，增加 https 及 0.0.0.0 白名单支持
+在线答题系统 WTS 0.9.0 发布，增加问答题编辑器样式
+Tor Browser 9.0.9 发布，隐私浏览器
+GNS3 2.2.7 发布，网络拓扑模拟工具
+Apache Tomcat 9.0.34 发布
+Thunderbird 68.7.0 发布，邮件工具
+IntelliJ IDEA 2020.1 稳定版发布
+Visual Studio Code 1.44 发布
+PeaZip 7.2.0 发布，压缩管理工具
+Screen To Gif 2.23 发布，动画录制软件
+TS 酒店管理系统 1.4.0 发布：一款针对中小型酒店的管理系统
+Hyperf 发布 v1.1.25版本，企业级的 PHP 微服务云原生协程框架
+Jboot v3.1.6 发布，修复 RPC 的一些配置问题
+CUBA Platform 7.2.3 发布，企业级应用开发平台
+xrkmonitor v2.0 发布，字符云监控系统
+Nim 语言 1.2 版本发布！向后兼容性增强和新的宏
+Aliyun Funcraft v3.6.8 发布
+Aliyun Serverless VSCode Extension v1.27.5 发布
+gowe 1.0.9 发布，Golang 多微信号 SDK
+Donkeyid v1.1 发布，64 位自增 ID 生成器
+LightSBMEU 2.0.0 Insight(内省) 发布尝鲜版 2，代码生成器中的孙悟空
+PESCMS Ticket 客服工单系统 v1.3.1 发布  
+Kooteam 0.9.4 发布，新一代团队协作与知识库系统
+WebStorm 2020.1 发布：改进外观，支持 Vuex 等
+Apache NiFi Registry 0.6.0 发布
+PyCharm 2020.1 稳定版发布
+SeaweedFS 1.71 发布，分布式文件系统
+Android Studio 4.0 Beta 4 发布
