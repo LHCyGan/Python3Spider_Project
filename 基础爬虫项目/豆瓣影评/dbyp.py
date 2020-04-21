@@ -42,8 +42,8 @@ def get_place():
     session.cookies = cookies
     # print(cookies)
     data = {
-        'name': 15591730713,
-        'password': 'iu111111',
+        'name': '你的用户名',
+        'password': '密码',
         'remember': 'false'
     }
     sess = session.post("https://accounts.douban.com/j/mobile/login/basic", data=data)
