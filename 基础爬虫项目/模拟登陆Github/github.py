@@ -33,7 +33,7 @@ def post_github():
         "commit": "Sign in",
         "authenticity_token": authenticity_token,
         "login": "LHCyGan",
-        "password": (base64.decodebytes(PASSWORD.encode())).decode(),
+        "password": "你的密码",
         "timestamp": timestamp,
         "timestamp_secret": timestamp_sec
     }
